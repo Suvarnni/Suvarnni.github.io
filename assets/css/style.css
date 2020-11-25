@@ -620,7 +620,7 @@ p.pa-product-rating {
     font-weight: bold;
 }
 .pas-testi-content h3 {
-    font-size: 18px;
+    font-size: 15px;
     font-weight: bold;
 }
 .pa-tesimonial-button {
@@ -846,6 +846,7 @@ p.pa-product-rating {
 .ps-team-box img {
     border-radius: 10px 10px 0px 0px;
     width: 100%;
+    max-height: 330px;
 }
 .pa-team-social li {
     display: inline-block;
