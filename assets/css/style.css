@@ -846,7 +846,6 @@ p.pa-product-rating {
 .ps-team-box img {
     border-radius: 10px 10px 0px 0px;
     width: 100%;
-    max-height: 198px;
 }
 .pa-team-social li {
     display: inline-block;
