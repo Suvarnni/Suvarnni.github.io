@@ -610,18 +610,20 @@ p.pa-product-rating {
 }
 .pas-testi-content {
     width: calc(100% - 250px);
-    padding-left: 40px;
+    padding-left: 45px;
 }
 .pas-testi-content p {
-    font-size: 17px;
+    font-size: 15px;
 }
 .pas-testi-content h2 {
-    font-size: 20px;
+    font-size: 17px;
     font-weight: bold;
+    margin: 0px;
 }
 .pas-testi-content h3 {
     font-size: 15px;
     font-weight: bold;
+    margin: 0px;
 }
 .pa-tesimonial-button {
     width: 100px;
