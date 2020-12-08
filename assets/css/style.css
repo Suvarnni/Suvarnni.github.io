@@ -625,6 +625,11 @@ p.pa-product-rating {
     font-weight: bold;
     margin: 0px;
 }
+.pas-testi-content h4 {
+    font-size: 12px;
+    font-weight: bold;
+    margin: 0px;
+}
 .pa-tesimonial-button {
     width: 100px;
     right: 0;
